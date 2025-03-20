@@ -1,0 +1,4 @@
+n1=leia numero
+n2=leia numero
+soma=n1+n2
+esreva(o resultado da soma deles)
