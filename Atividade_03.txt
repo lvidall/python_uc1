@@ -1,0 +1,7 @@
+Pesquisem sobre a história da linguagem python, quem a criou, por que foi criada e qual a sua filosofia
+A linguagem Python foi criada por Guido van Rossum, um programador holandês, em 1989. O Python 
+foi desenvolvido como um projeto de hobby durante as férias de Natal. 
+
+Qual a sua filosofia?
+O Python foi projetado para permitir que os programadores expressem 
+conceitos em menos linhas de código 
